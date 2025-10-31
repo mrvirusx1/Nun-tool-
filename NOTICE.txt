@@ -1,0 +1,17 @@
+NUN Tool — NOTICE
+
+Thank you for using NUN Tool (NUN Scraper). This NOTICE contains important
+information about usage, attribution, and a friendly request from the author.
+
+Author: NUN Anonymoushackeradmin
+Profile: https://www.facebook.com/profile.php?id=61582396620144&mibextid=ZbWKwL
+
+== Friendly request ==
+If you find this tool useful, please consider following the author's Facebook profile:
+https://www.facebook.com/profile.php?id=61582396620144&mibextid=ZbWKwL
+
+== Ethical & legal ==
+- This tool is intended for scraping public pages only.
+- Do NOT use this to access private accounts, bypass authentication, or scrape DMs.
+- Respect website robots.txt and platform Terms of Service.
+- Use reasonable rate-limiting and behave responsibly.
